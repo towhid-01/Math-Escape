@@ -1,0 +1,4 @@
+Assets/Prison[[:space:]]cell/Models/Walls/Materials/Foundation_Albedo_Smoothness.png filter=lfs diff=lfs merge=lfs -text
+Assets/Prison[[:space:]]cell/Models/Walls/Materials/Floor_Albedo_Smoothness.png filter=lfs diff=lfs merge=lfs -text
+Assets/Prison[[:space:]]cell/Models/Walls/Materials/Foundation_Normal.png filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
